@@ -1,0 +1,8 @@
+.display input {
+    width: 400px;
+    height: 40px;
+    background-color: black;
+    border-color: grey;
+    color: green;
+    font-size: 30px;
+}
